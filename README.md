@@ -1,4 +1,4 @@
 # OnlinePGP
-Our platform is free and accessble to all, it allows you to communicate secure way by using PGP.
+With our free platform and accessible to all you can generate your own PGP key and encrypt or decrypt messages.
 
 http://onlinepgp.ws
